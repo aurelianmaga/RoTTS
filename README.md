@@ -6,7 +6,7 @@ A REST service for generating text to speech for Romanian language. The web inte
 
 ## Usage
 
-To get convert text to speech make the following call
+To convert text to speech make the following call
 
 ```
 
