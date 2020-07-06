@@ -4,8 +4,6 @@
 
 A REST service for generating text to speech for Romanian language. The web interface it's available at:  http://www.t2s.ro
 
-## Description
-
 ## Usage
 
 To get convert text to speech make the following call
