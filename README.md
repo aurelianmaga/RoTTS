@@ -1,4 +1,4 @@
-# RoTTS
+# Romanian Text To Speech
 
 ## Introduction
 
