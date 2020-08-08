@@ -10,7 +10,7 @@ To convert text to speech make the following call
 
 ```
 
-POST http://api.t2s.ro/tts
+POST https://www.t2s.ro/tts
 Authorization: 36e28220-6514-4063-a6ed-6e75acd33c7a
 Content-Type: application/vnd.tts+json
 Accept: audio/wav
